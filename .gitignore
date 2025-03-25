@@ -1,0 +1,6 @@
+.buildozer/
+*.apk
+*.zip
+*.log
+*.pyc
+*.so
